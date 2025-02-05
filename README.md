@@ -7,8 +7,8 @@ Hi, I'm Oliver, a Data Scientist with expertise in data analysis and visualizati
 
 * Querying data using SQL
 * Data exploration and clean-up with Unix/Bash
-* Data analysis and reporting using Python and SQL, as well as Google Sheets and Excel
-* Developing dashboards in Python and R.
+* Data analysis and reporting using Python and SQL
+* Developing dashboards in Python and R
 
 ## 📚 Projects
 
@@ -23,7 +23,6 @@ If you are interested, check out my [academic research portfolio](https://github
 * SQLite, PostgreSQL, MySQL
 * Unix/Bash
 * R
-* Excel
 
 ## 👋🏻 Connect with Me
 
