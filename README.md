@@ -20,7 +20,7 @@ If you are interested, check out my [academic research portfolio](https://github
 ## 🛠️ Tools
 
 * Python
-* SQLite, PostgreSQL
+* SQLite, PostgreSQL, MySQL
 * Unix/Bash
 * R
 * Excel
